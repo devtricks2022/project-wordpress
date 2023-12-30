@@ -1,0 +1,27 @@
+2023-12-27T16:34:29+00:00 DEBUG POST: https://ads.tiktok.com/marketing_api/api/developer/app/create_auto_approve/
+
+{"business_platform":"PROD","smb_id":"tt4b_woocommerce_658c5215a802ahttplocalhostfootwear-shopwp-admin","smb_name":"PROD","redirect_url":"http:\/\/localhost\/footwear-shop\/wp-admin\/"}
+ ajax: no
+2023-12-27T16:34:30+00:00 DEBUG Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+HTTP/1.1 200 OK
+Content-Type: application/json
+X-Tt-Logid: 202312271634295EAF0CCF9F087266CCD4,202312271634295EAF0CCF9F087266CCD4
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Server-Timing: inner; dur=95
+x-tt-trace-host: 01ef1bc6c06fb79b56f7f8676ed0c07c05e8eec91da02ac3d90ba0957a3daf07da0352a18732a3f96407b5c1845df3ced038d8a1d718bcc2456df6f09e5ee5f48b4f1e4385b9952df387a3cecab08646ca70405a4f64c65efcfe10069779384b65
+x-tt-trace-id: 00-2312271634295EAF0CCF9F087266CCD4-6850803835BDA9CB-00
+Server: TLB
+Content-Encoding: gzip
+Date: Wed, 27 Dec 2023 16:34:30 GMT
+Content-Length: 212
+X-Cache: TCP_MISS from a113-171-10-148.deploy.akamaitechnologies.com (AkamaiGHost/11.3.3-52660090) (-)
+Connection: close
+Vary: Accept-Encoding
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=5, origin; dur=335
+X-Origin-Response-Time: 335,113.171.10.148
+X-Akamai-Request-ID: 8e8da746
+
+{"code":0,"msg":"ok","data":{"app_id":"7317313749763751937","app_secret":"e6d08557c49176443b2818ff0f33a7d1f87596c2","redirect_uri":"http:\/\/localhost\/footwear-shop\/wp-admin\/","external_data_key":"64a2d03f-1ba4-4e9d-b49d-5b4c21e6ae3c"}}
+

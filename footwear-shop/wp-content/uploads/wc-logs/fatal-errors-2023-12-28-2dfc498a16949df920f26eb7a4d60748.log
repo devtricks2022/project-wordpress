@@ -1,0 +1,4 @@
+2023-12-28T13:58:36+00:00 CRITICAL Cannot redeclare footwear_shop_scripts() (previously declared in C:\server\htdocs\footwear-shop\wp-content\themes\footwear-shop\inc\setup.php:99) in C:\server\htdocs\footwear-shop\wp-content\themes\footwear-shop\inc\enqueue.php on line 17
+
+2023-12-28T13:59:47+00:00 CRITICAL Cannot redeclare footwear_shop_scripts() (previously declared in C:\server\htdocs\footwear-shop\wp-content\themes\footwear-shop\inc\setup.php:99) in C:\server\htdocs\footwear-shop\wp-content\themes\footwear-shop\inc\enqueue.php on line 18
+
